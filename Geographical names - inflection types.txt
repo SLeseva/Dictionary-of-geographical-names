@@ -1,0 +1,345 @@
+#Мъжки род | изменяеми
+
+# Александров архипелаг,NHMS1
+NHMS1-0:Asom_NCMsom=<1> <2>/Asom_NCMsom  + <1>ият <2>/Aslm_NCMsom + <1>ия <2>/Ashm_NCMsom
+
+# Атлантически океан,NHMS3
+NHMS3-0:Asom_NCMsom=<1> <2>/Asom_NCMsom + <1>ят <2>/Aslm_NCMsom+ <1>я <2>/Ashm_NCMsom
+
+# Тихи океан,NHMS3
+NHMS3-2:Asjm_NCMsom=<1> <2>/Asjm_NCMsom + <1>ят <2>/Aslm_NCMsom+ <1>я <2>/Ashm_NCMsom
+
+# Врачански Балкан
+NHMS3-1:Asom_NLMsom=<1> <2>/Asom_NLMsom + <1>ят <2>/Aslm_NLMsom + <1>я <2>/Ashm_NLMsom
+
+# Южен океан
+NHMS2-0:Asom_NCMsom=<1> <2>/Asom_NCMsom + <1><L2><S><R>ият <2>/Aslm_NCMsom + <1><L2><S><R>ия <2>/Ashm_NCMsom
+
+# Малък Резен
+NHMS2-1:Asom_NLMsom=<1> <2>/Asom_NLMsom + <1><L2><S><R>ият <2>/Aslm_NLMsom + <1><L2><S><R>ия <2>/Ashm_NLMsom
+
+# Голям Купен
+NHMS4-0:Asom_NLMsom=<1> <2>/Asom_NLMsom + <1><L2><S>е<R>ият <2>/Aslm_NLMsom + <1><L2><S>е<R>ия <2>/Ashm_NLMsom
+
+# Басейн Кейн
+NHMS4-0:NCMsom_NHMsom=<1> <2>/NCMsom_NHMsom + <1>ът <2>/NCMslm_NHMsom + <1>а <2>/NCMshm_NHMsom
+
+# Султанат Оман
+NHMS4-1:NCMsom_NLMsom=<1> <2>/NCMsom_NLMsom + <1>ът <2>/NCMslm_NLMsom + <1>а <2>/NCMshm_NLMsom
+
+
+# Мъжки род | неизменяеми
+
+# Бобов дол, Червен бряг, Арктически институт (архипелаг), Мечи дол
+NHMS0-0:Asom_NCMsom=<1> <2>/Asom_NCMsom
+
+# Владо Тричков
+NHMS0-1:NHMsom_NFMsom=<1> <2>/NHMsom_NFMsom
+
+# Свети Никола, Свети Влас
+NHMS0-2:Asom_NHMsom=<1> <2>/Asom_NHMsom
+
+# Полски Тръмбеш, Южен Судан
+NHMS0-3:Asom_NLMsom=<1> <2>/Asom_NLMsom
+
+# Ангел войвода
+NHMS0-4:NHMsom_NCMsom=<1> <2>/NHMsom_NCMsom
+
+# Сини вир
+NHMS0-5:Asjm_NCMsom=<1> <2>/Asjm_NCMsom
+
+# Долни Дъбник
+NHMS0-6:Asjm_NLMsom=<1> <2>/Asjm_NLMsom
+
+# Бели брег
+NHMS0-7:Asjm_NCMQsom=<1> <2>/Asjm_NCMQsom
+
+# Камен бряг
+NHMS0-8:AQsom_NCMsom=<1> <2>/AQsom_NCMsom
+
+# Принц Едуард, Екзарх Йосиф, Цар Калоян, Хаджи Димитър
+NHMS0-9:NCMsom_NHMsom=<1> <2>/NCMsom_NHMsom
+
+# Бел камен 
+NHMS0-10:AQsom_NCMQsom=<1> <2>/AQsom_NCMQsom
+
+# Генерал Тодоров
+NHMS0-11:NCMsom_NFMsom=<1> <2>/NCMsom_NFMsom
+
+# Голем Цалим
+NHMS0-12:AQsom_NLMsom=<1> <2>/AQsom_NLMsom
+
+# Елин Пелин, Стефан Караджа
+NHMS0-13:NHMsom_NHMsom=<1> <2>/NHMsom_NHMsom
+
+# Злия зъб, Жълтия дол
+NHMS0-14:Ashm_NCMsom=<1> <2>/Ashm_NCMsom
+
+# Беренде извор
+NHMS0-15:NLOso_NCMsom=<1> <2>/NLOso_NCMsom
+
+# Червен брег
+NHMS0-16:Asom_NCMQsom=<1> <2>/Asom_NCMQsom
+
+# Горни Драгойча
+NHMS0-19:Asjm_NHMsom=<1> <2>/Asjm_NHMsom
+
+# Петър Велики
+NHMS0-20:NHMsom_Asjm=<1> <2>/NHMsom_Asjm
+
+# Едуард VIII
+NHMS0-21:NHMsom_BOsom=<1> <2>/NHMsom_BOsom
+
+# Принц Риджънт
+NHMS0-22:NCMsom_NH-Part=<1> <2>/NCMsom_NH-Part
+
+# Мали Върбовник
+NHMS0-23:AQsjm_NLMsom=<1> <2>/AQsjm_NLMsom
+
+# Мали дял
+NHMS0-24:AQsjm_NCMsom=<1> <2>/AQsjm_NCMsom
+
+# Св. Тома
+NHMS0-25:AGsom_NHMsom=<1> <2>/AGsom_NHMsom
+
+
+#Женски род | изменяеми
+
+# Саранска котловина
+NHFS1-0:Asof_NCFsof=<1> <2>/Asof_NCFsof + <1>та <2>/Asdf_NCFsof
+
+# Държава Еритрея
+NHFS1-1:NCFsof_NLFsof=<1> <2>/NCFsof_NLFsof + <1>та <2>/NCFsdf_NLFsof
+
+#Държава(та) Израел
+NHFS1-3:NCFsof_NLMsom=<1> <2>/NCFsof_NLMsom + <1>та <2>/NCFsdf_NLMsom
+
+!# Бела река
+NHFS1-2:AQsof_NCFsof=<1> <2>/AQsof_NCFsof + <1>та <2>/AQsdf_NCFsof
+
+# Бовска скакля
+NHFS1-4:Asof_NCFQsof=<1> <2>/Asof_NCFQsof + <1>та <2>/Asdf_NCFQsof
+
+# Ивица Ауазу
+NHFS1-5:NCFsof_NLOso=<1> <2>/NCFsof_NLOso + <1>та <2>/NCFsdf_NLOso
+
+
+# Женски род | неизменяеми
+
+# Огнена земя, Черна гора
+NHFS0-0:Asof_NCFsof=<1> <2>/Asof_NCFsof
+
+# Френска Полинезия, Вътрешна Монголия
+NHFS0-1:Asof_NLFsof=<1> <2>/Asof_NLFsof
+
+# Света Елена, Нова Надежда
+NHFS0-2:Asof_NHFsof=<1> <2>/Asof_NHFsof
+
+# Бела Рада
+NHFS0-3:AQsof_NHFsof=<1> <2>/AQsof_NHFsof
+
+# Кралица Шарлот
+NHFS0-4:NCFsof_NHFsof=<1> <2>/NCFsof_NHFsof
+
+# Голема Раковица, Каменичка Скакавица
+NHFS0-6:AQsof_NLFsof=<1> <2>/AQsof_NLFsof
+
+# Враня стена, Цървена ябълка, Грълска падина, Бабинска река, Ракина бара, Кадина река
+NHFS0-7:AQsof_NCFsof=<1> <2>/AQsof_NCFsof
+
+# Република Австрия
+NHFS0-9:NCFsof_NLFsof=<1> <2>/NCFsof_NLFsof
+
+# Република Бенин, Република Камерун
+NHFS0-10:NCFsof_NLMsom=<1> <2>/NCFsof_NLMsom
+
+# Република Конго, Република Косово
+NHFS0-11:NCFsof_NLNson=<1> <2>/NCFsof_NLNson
+
+# Република Филипини, Република Сейшели, Република Малдиви
+NHFS0-12:NCFsof_NLPpo=<1> <2>/NCFsof_NLPpo
+
+# Република Хаити, Република Чили
+NHFS0-13:NCFsof_NLOso=<1> <2>/NCFsof_NLOso
+
+# Павел баня
+NHFS0-14:NHMsom_NCFsof=<1> <2>/NHMsom_NCFsof
+
+# Дълга лука
+NHFS0-15:Asof_NCFQsof=<1> <2>/Asof_NCFQsof
+
+# Извор махала, Балкан махала
+NHFS0-16:NCMsom_NCFsof=<1> <2>/NCMsom_NCFsof
+
+# Ерма река
+NHFS0-17:NLFsof_NCFsof=<1> <2>/NLFsof_NCFsof
+
+# Старата река
+NHFS0-19:Asdf_NCFsof=<1> <2>/Asdf_NCFsof
+
+# Мечик река
+NHFS0-20:NL-Part_NCFsof=<1> <2>/NL-Part_NCFsof
+
+# Св. Елена 
+NHFS0-21:AGsof_NHFsof=<1> <2>/AGsof_NHFsof
+
+
+# Среден род | изменяеми
+
+# Байкалско блато, Обединено кралство
+NHNS1-0:Ason_NCNson=<1> <2>/Ason_NCNson + <1>то <2>/Asdn_NCNson
+
+# Бело езеро
+NHNS1-1:AQson_NCNson=<1> <2>/AQson_NCNson + <1>то <2>/AQsdn_NCNson
+
+
+# Среден род | неизменяеми
+
+# Бяло поле, Мъртво море
+NHNS0-0:Ason_NCNson=<1> <2>/Ason_NCNson
+
+# Малко Търново, Горно Оряхово
+NHNS0-3:Ason_NLNson=<1> <2>/Ason_NLNson
+
+# Сливо поле, Бело поле, Марино поле
+NHNS0-7:AQson_NCNson=<1> <2>/AQson_NCNson
+
+# Големо Бабино, Големо Малово 
+NHNS0-9:AQson_NLNson=<1> <2>/AQson_NLNson
+
+# Ново Лески (неопределен род)
+NHNS0-10:Ason_NLOso=<1> <2>/Ason_NLOso
+
+# Кралство Белгия
+NHNS0-11:NCNson_NLFsof=<1> <2>/NCNson_NLFsof
+
+# Кралство Тайланд
+NHNS0-12:NCNson_NLMsom=<1> <2>/NCNson_NLMsom
+
+# Генерал Тошево
+NHNS0-13:NCMsom_NFNson=<1> <2>/NCMsom_NFNson
+
+# Цар Симеоново
+NHNS0-14:NCMsom_NHNson=<1> <2>/NCMsom_NHNson
+
+# Алеко Константиново, Добри Войниково
+NHNS0-15:NHMsom_NFNson=<1> <2>/NHMsom_NFNson
+
+# Кралство Мароко
+NHNS0-16:NCNson_NLNson=<1> <2>/NCNson_NLNson
+
+# Голямо Чочовени
+NHNS0-17:Ason_NLNpo=<1> <2>/Ason_NLNpo
+
+# Чинар дере
+NHNS0-18:NCMsom_NCNson=<1> <2>/NCMsom_NCNson
+
+# Долно Белотинци
+NHNS0-19:Ason_NLMpo=<1> <2>/Ason_NLMpo
+
+# Зайчино ореше, Тонско дабе
+NHNS0-20:AQson_NCNQson=<1> <2>/AQson_NCNQson
+
+# Студено буче, Синьо камене, Голямо църквище, Горно трапе
+NHNS0-21:Ason_NCNQson=<1> <2>/Ason_NCNQson
+
+# Шейтан дере
+NHNS0-23:NCMQ_NCNson=<1> <2>/NCMQ_NCNson
+
+# Куру дере
+NHNS0-24:NL-Part_NCNson=<1> <2>/NL-Part_NCNson
+
+# Ченгене скеле
+NHNS0-25:NCNQ_NCNson=<1> <2>/NCNQ_NCNson
+
+
+# Множествено число
+
+# Мъжки род | изменяеми
+
+# Сейшелски острови, Маршалови острови
+NHMP1-0:Apo_NCMpo=<1> <2>/Apo_NCMpo + <1>те <2>/Apd_NCMpo
+
+
+# Мъжки род | неизменяеми
+
+# Братя Даскалови, Братя Кунчеви
+NHMP0-1:NCMpo_NFpo=<1> <2>/NCMpo_NFpo
+
+# Пет кладенци
+NHMP0-2:BCpo_NCMpo=<1> <2>/BCpo_NCMpo
+
+# Горни Райчовци
+NHMP0-3:Apo_NHMpo=<1> <2>/Apo_NHMpo
+
+# Горни Маренци
+NHMP0-4:Apo_NLMpo=<1> <2>/Apo_NLMpo
+
+
+# Женски род | изменяеми
+
+# Александровски войни, Андалуски планини
+NHFP1-0:Apo_NCFpo=<1> <2>/Apo_NCFpo + <1>те <2>/Apd_NCFpo
+
+
+# Женски род | неизменяеми
+
+# Две могили, пет могили
+NHFP0-2:BCpo_NCFpo=<1> <2>/BCpo_NCFpo
+
+# Старозагорски бани, Минерални бани
+NHFP0-1:Apo_NCFpo=<1> <2>/Apo_NCFpo
+
+!# Бойчеви колиби
+NHFP0-3:AQpo_NCFpo=<1> <2>/AQpo_NCFpo
+
+# Добри лаки
+NHFP0-4:Apo_NCFQpo=<1> <2>/Apo_NCFQpo
+
+
+# Среден род | изменяеми
+
+# Беговишки езера
+NHNP1-0:Apo_NCNpo=<1> <2>/Apo_NCNpo + <1>те <2>/Apd_NCNpo
+
+
+# Среден род | неизменяеми
+
+# Горни Върпища, Долни Върпища
+NHNP0-1:Apo_NLNpo=<1> <2>/Apo_NLNpo
+
+# Три уши
+NHNP0-2:BCpo_NCNpo=<1> <2>/BCpo_NCNpo
+
+
+# Неопределен род | изменяеми
+
+# Нови Хебриди
+NHP1-0:Apo_NLPpo=<1> <2>/Apo_NLPpo + <1>те <2>/Apd_NLPpo
+
+
+# Флективни типове за имена с неидентифицирани елементи (при чужди наименования)
+
+# Елк Ривър
+NHS0-1:NL-Part_NL-Part=<1> <2>/NL-Part_NL-Part
+
+# Айдахо Сити
+NHS0-3:NLMsom_NL-Part=<1> <2>/NLMsom_NL-Part
+
+# Сан Себастиан, Сен Бартелеми
+NHS0-4:NL-Part_NHMsom=<1> <2>/NL-Part_NHMsom
+
+# Сан Салвадор
+NHS0-5:NL-Part_NLMsom=<1> <2>/NL-Part_NLMsom
+
+# Калифорния Сити
+NHS0-2:NLFsof_NL-Part=<1> <2>/NLFsof_NL-Part
+
+# Санта Барбара
+NHS0-6:NL-Part_NHFsof=<1> <2>/NL-Part_NHFsof
+
+# Шаренградска ада
+NHS0-9:Asof_NL-Part=<1> <2>/Asof_NL-Part
+
+# Ню Олбъни
+NHS0-7:NL-Part_NLOso=<1> <2>/NL-Part_NLOso
